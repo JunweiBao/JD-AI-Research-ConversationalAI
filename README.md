@@ -15,7 +15,6 @@ The representative research includes:
 - 01/2021: Our [RoR](https://aclanthology.org/2021.findings-emnlp.160.pdf) (EMNLP 2021-Findings) achieves the Top-1 on [QuAC](https://quac.ai/) leaderboard.
 
 ## Selected Publications
-#### For full publication list, please check [publication page](publications.md).
 - [[Paper](https://arxiv.org/pdf/2210.12339.pdf) | [Code](https://github.com/JunweiBao/P3LM)] **Junwei Bao***, Yifan Wang, Jiangyong Ying, Yeyun Gong, Jing Zhao, Youzheng Wu, Xiaodong He: 
   **P<sup>3</sup>LM: Probabilistically Permuted Prophet Language Modeling for Generative Pre-Training**. EMNLP (Findings) 2022
 
